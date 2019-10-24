@@ -1,11 +1,8 @@
 {
-    "author" : ["Redjumpman (Redjumpman#1337) modified by locastan"],
-    "install_msg" : "Thank you for installing the den. Be sure to check out the wiki here: https://github.com/Redjumpman/Jumper-Plugins/wiki/Casino-RedV3\nThis cog may put a heavy load on your bot if used with 10k users or more. It is highly recommended that you use MongoDB with large user bases.",
-    "name" : "The Den",
-    "short" : "Gambling Den style mini games.",
-    "requirements" : ["tabulate"],
-    "description" : "Play up to 7 unique games and earn currency.",
-    "permissions" : ["Manage Messages", "Embed Links"],
-    "tags" : ["Games", "Economy", "Fun", "Casino"],
-    "min_python_version": [3, 6, 0]
+    "author" : ["locastan"],
+    "install_msg" : "Thank you for installing my repository.",
+    "name" : "LocaCogs",
+    "short" : "Repo for just the GoblinsComic inspired RPG bot for now.",
+    "description" : "Play a RPG character and get loot by killing monsters.",
+    "tags" : ["Games", "Economy", "Fun", "RPG"],
 }
